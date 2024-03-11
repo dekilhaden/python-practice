@@ -1,0 +1,10 @@
+stack = []
+stack.append('a')
+stack.append('b')
+stack.append('c')
+print('Initial stack')
+print(stack)
+print(stack.pop(0))
+print(stack.pop(0))
+print()
+print(stack)
